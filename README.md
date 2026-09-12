@@ -12,6 +12,5 @@ In Gondar, beverage distribution (beer, bottled water, soft drinks) relies on Is
 - **Voice Integration (Voxide):** Drivers log crate deliveries via voice; farmers check inventory by voice.
 
 ## 3. Academic & Literature Basis (ScholarXIV Integration)
-This project uses the ScholarXIV Papers API to reference supply chain logistics models in emerging markets.
 - **Quantum Neural Networks for a Supply Chain Logistics Application** (Correll et al., 2022) — Examines vehicle routing and demand structure optimizations for multi-truck fleets.
 - **Supply Chain Logistics with Quantum and Classical Annealing Algorithms** (Weinberg et al., 2022) — Focuses on multi-truck vehicle routing models for corporate supply chain networks.
